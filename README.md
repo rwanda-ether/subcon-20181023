@@ -2,7 +2,8 @@
 
 ## Requirements
 
-* MAK holder
+* MAK > 0: MAK holders
+* RELV = 0: no RELV holders
 * git config user.email "<b><i>your ethereum address</i></b>"
 
 ## Term
@@ -19,7 +20,7 @@
 ## Payment
 
  * MAK
- * RELV: Rwanda-Ether Level +1 (after the project finishes)
+ * RELV: Rwanda-Ether Level +1 (after your first commit)
 
 ## Description
 

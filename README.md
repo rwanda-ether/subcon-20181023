@@ -3,6 +3,7 @@
 ## Requirements
 
 * MAK holder
+* git config user.email "<your ethereum address>"
 
 ## Term
 
@@ -14,6 +15,11 @@
 * X(n) = C
 * V(0) = 5000
 * nmax = 100
+
+## Payment
+
+ * MAK
+ * RELV: Rwanda-Ether Level +1 (after the project finishes)
 
 ## Description
 

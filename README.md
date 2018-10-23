@@ -3,7 +3,7 @@
 ## Requirements
 
 * MAK holder
-* git config user.email "<your ethereum address>"
+* git config user.email "<b><i>your ethereum address</i><b>"
 
 ## Term
 

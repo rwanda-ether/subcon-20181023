@@ -20,12 +20,18 @@
 ## Payment
 
  * MAK
- * RELV: Rwanda-Ether Level +1 (after your first commit)
+ * RELV: Rwanda-Ether Level +1 (just after your first commit)
+
+## Ethereum Address
+
+* Budget: <a href="https://ropsten.etherscan.io/token/0x7b3c93596c3e07f8afd06a1e7aed3f4fe2ef74b6?a=0xa8ae3962a252c6504b8f9c7d550953cc7a8108af">0xa8ae3962a252c6504b8f9c7d550953cc7a8108af</a>
+* MAK: <a href="https://ropsten.etherscan.io/address/0x7b3c93596c3e07f8afd06a1e7aed3f4fe2ef74b6">0x7b3C93596C3e07F8AFd06a1e7aEd3F4fE2EF74B6</a>
+* RELV: <a href="https://ropsten.etherscan.io/address/0x773AA7e08C343E13D5993f1DF8F6e1E5AC2dDDF2">0x773AA7e08C343E13D5993f1DF8F6e1E5AC2dDDF2</a>
 
 ## Description
 
-brah brah brah brah brah brah brah brah brah
-brah brah brah brah brah brah brah brah brah
-brah brah brah brah brah brah brah brah brah
-brah brah brah brah brah brah brah brah brah
+Please update the images below. 
+
+* <img src="img-logo.png"> : update more wity style
+* <img src="img-emoji.png"> : update more wity style
 

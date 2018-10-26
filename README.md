@@ -32,6 +32,6 @@
 
 Please update the images below. 
 
-* <img src="img-logo.png"> : update more wity style
-* <img src="img-emoji.png"> : update more wity style
+* <img src="img-logo.png" width="30%"> : update more wity style
+* <img src="img-emoji.png" width="30%"> : update more wity style
 
